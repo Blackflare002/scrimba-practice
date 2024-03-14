@@ -6,7 +6,3 @@ function greetUser(greeting, name, emoji) {
 }
 
 greetUser("Kikkeriki", "Per", "🐔");
-
-/////////////////////
-
-
