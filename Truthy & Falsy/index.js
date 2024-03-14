@@ -15,3 +15,7 @@ currentViewers = ["Jane", "John"];
 if (currentViewers) {
 	console.log("Viewers!");
 }
+
+//////////
+
+console.log(Boolean(-0));
