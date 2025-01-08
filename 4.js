@@ -6,9 +6,9 @@ let largeCountries = [
 	"Monaco",
 ];
 
-largeCountries.pop();
-largeCountries.push("Pakistan");
-largeCountries.shift();
-largeCountries.unshift("China");
+largeCountries.pop(); //take out last
+largeCountries.push("Pakistan"); //add at the end
+largeCountries.shift(); //take out first
+largeCountries.unshift("China"); //add in first
 
 console.log(largeCountries);
